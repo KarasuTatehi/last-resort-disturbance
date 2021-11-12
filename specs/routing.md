@@ -132,8 +132,19 @@ D4E
 
 ## Day5
 
+```mermaid
+flowchart TD
+D5S([Day5 開始])
+D5-GE1["GE1"]
+D5E([Day5 終了])
+
+D5S -->
+D5-GE1 -->
+D5E
+```
+
 ### GE1
-- [ ] 四葉薊との待ち合わせ場所を訪れる
+- [ ] 指定されたいちの
 - [ ] 四葉薊の使いの者を自称する人物が現れる
 - [ ] 飯縄山山中の洞窟で四葉薊・御先稲荷と再会する
 
@@ -196,5 +207,5 @@ D4E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDA2NjMzMSwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTUxNjg1MDY1NCwtMTIyMjE5NjU3OF19
 -->
