@@ -120,6 +120,7 @@ D4E
 
 ### PE: HO2
 - [ ] オシロスコープと繋がったラジカセでB面を再生する
+- [ ] 「52ヘルツの鯨」暗号
 - [ ] HO3にB面の内容を伝える
 
 ### HO3
@@ -193,5 +194,5 @@ D4E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODc5NTY0NSwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTMxNzczNjIzMywtMTIyMjE5NjU3OF19
 -->
