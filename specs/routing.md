@@ -136,13 +136,16 @@ D4E
 flowchart TD
 D5S([Day5 開始])
 D5-GE1["GE1"]
-D5-GE1-HO1["GE1: HO1"]
-D5-GE1-HO2["GE1: HO2"]
-D5-GE1-HO2["GE1: HO2"]
+D5-PE1-HO1["GE1: HO1"]
+D5-PE1-HO2["GE1: HO2"]
+D5-PE1-HO3["GE1: HO3"]
+D5-GE2["GE2"]
 D5E([Day5 終了])
 
 D5S -->
 D5-GE1 -->
+D5-GE1-HO1 & D5-GE1-HO2 & D5-GE1-HO3 -->
+
 D5E
 ```
 
@@ -150,16 +153,16 @@ D5E
 - [ ] 指定された一の鳥居を訪れると、四葉薊の使いの者を自称する人物が現れる
 - [ ] 使いの者についていくと、飯縄山山中の洞窟で四葉薊・御先稲荷と再会する
 
-### GE1: HO1
+### PE1: HO1
 - [ ] なぜ御先稲荷を拉致したのかを聞く
 
-### GE1: HO2
+### PE1: HO2
 - [ ] なぜ虎屋外郎にラジカセを渡したのかを聞く
 
-### GE1: HO3
+### PE1: HO3
 - [ ] なぜ探索者たちを選んだのかを聞く
 
-### 共通
+### GE2
 - [ ] 白狐計画を知る
 - [ ] 白虎計画を知る
 - [ ] ラストリゾート作戦を知る
@@ -209,5 +212,6 @@ D5E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDA3MTI0MSwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTE4NTkxODk4MTMsLTEyMjIxOTY1NzhdfQ
+==
 -->
