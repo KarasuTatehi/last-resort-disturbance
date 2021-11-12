@@ -6,11 +6,11 @@
 
 ```mermaid
 flowchart TD
-D1S([Day1])
+D1S([Day1 開始])
 HO1-D1["導入: HO1"]
 HO2-D1["導入: HO2"]
 HO3-D1["導入: HO3"]
-D1E([Day1])
+D1E([Day1 終了])
 D1S --> HO1-D1 & HO2-D1 & HO3-D1
 HO1-D1 & HO2-D1 & HO3-D1 --> D1E
 ```
@@ -28,6 +28,15 @@ HO1-D1 & HO2-D1 & HO3-D1 --> D1E
 - [ ] 四葉薊から内容を見たか確認される
 
 ## Day2
+
+```mermaid
+flowchart TD
+D2S([Day2])
+HO1-D1["HO1"]
+HO2-D1["HO2"]
+HO3-D1["HO3"]
+D2E([Day2])
+```
 
 ### HO1
 - [ ] 御先稲荷をサイト-8141へ送り届ける
@@ -136,5 +145,6 @@ HO1-D1 & HO2-D1 & HO3-D1 --> D1E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MDM5MDk2LC0xMjIyMTk2NTc4XX0=
+eyJoaXN0b3J5IjpbLTEyMTg1Nzk1ODEsLTEyMjIxOTY1NzhdfQ
+==
 -->
