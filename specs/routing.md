@@ -2,10 +2,11 @@
 
 ```mermaid
 flowchart TD
-Day1([Day1])
--->HO1-D1[]
-Day1([Day1])
--->2.1.1["「首輪」の注射器に使用する薬剤を完成させる"]
+D1([Day1])
+HO1-D1["導入: HO1"]
+HO2-D1["導入: HO2"]
+HO3-D1["導入: HO3"]
+D1-->HO1-D1
 ```
 
 ----
@@ -133,5 +134,6 @@ Day1([Day1])
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTAxODY2OCwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTEzNzkxNDAyNTcsLTEyMjIxOTY1NzhdfQ
+==
 -->
