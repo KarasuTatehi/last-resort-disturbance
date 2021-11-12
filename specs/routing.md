@@ -6,15 +6,15 @@
 
 ```mermaid
 flowchart TD
-D1S([Day1 開始])
+D1-S([Day1 開始])
 D1-HO1["導入: HO1"]
 D1-HO2["導入: HO2"]
 D1-HO3["導入: HO3"]
-D1E([Day1 終了])
+D1-E([Day1 終了])
 
-D1S -->
+D1-S -->
 D1-HO1 & D1-HO2 & D1-HO3 -->
-D1E
+D1-E
 ```
 
 ### 導入: HO1
@@ -33,17 +33,17 @@ D1E
 
 ```mermaid
 flowchart TD
-D2S([Day2 開始])
+D2-S([Day2 開始])
 D2-EB-HO1["EB: HO1"]
 D2-EB-HO2["EB: HO2"]
 D2-EB-HO3["EB: HO3"]
 D2-GE["GE"]
-D2E([Day2 終了])
+D2-E([Day2 終了])
 
-D2S -->
+D2-S -->
 D2-EB-HO1 & D2-EB-HO2 & D2-EB-HO3 -->
 D2-GE -->
-D2E
+D2-E
 ```
 
 ### EB: HO1
@@ -239,5 +239,5 @@ D6-E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTM1MTY4MSwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbMTE0OTExMzI5NSwtMTIyMjE5NjU3OF19
 -->
