@@ -70,9 +70,13 @@ D2E
 flowchart TD
 D3S([Day2 開始])
 D3-SF-HO3["SF: HO3"]
-D3-E-HO3[]
+D3-PE-HO3["PE: HO3"]
 D3E([Day2 終了])
 ```
+
+### SF: HO3
+- [ ] 暗号を解読する
+- [ ] 指定された場所で両面のカセットテープ
 
 ### 共通
 - [ ] 暗号の内容を知る
@@ -161,5 +165,5 @@ D3E([Day2 終了])
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzIyNjY0NCwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTY5NzI0MTczNiwtMTIyMjE5NjU3OF19
 -->
