@@ -200,7 +200,7 @@ D6-E
 ### GE
 - [ ] 表象領域で訓練を受ける
 
-## Day7
+## Day7: 最後の手段
 
 ### 共通
 - [ ] 四葉薊・ラストリゾート・御先稲荷と共にサイト-8141を襲撃する
@@ -239,5 +239,6 @@ D6-E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTExMzI5NSwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTEzNDA3ODg2NjksLTEyMjIxOTY1NzhdfQ
+==
 -->
