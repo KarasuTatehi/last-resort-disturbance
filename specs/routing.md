@@ -66,6 +66,13 @@ D2E
 
 ## Day3
 
+```mermaid
+flowchart TD
+D3S([Day2 開始])
+
+D3E([Day2 終了])
+```
+
 ### 共通
 - [ ] 暗号の内容を知る
 - [ ] 暗号に指定されていた場所でカセットテープを入手する
@@ -153,5 +160,5 @@ D2E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzQzNzU1NCwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbODUwODkyMTMzLC0xMjIyMTk2NTc4XX0=
 -->
