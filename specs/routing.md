@@ -2,11 +2,13 @@
 
 ```mermaid
 flowchart TD
-D1([Day1])
+D1S([Day1])
 HO1-D1["導入: HO1"]
 HO2-D1["導入: HO2"]
 HO3-D1["導入: HO3"]
-D1-->HO1-D1
+D1E([Day1])
+D1S --> HO1-D1 & HO2-D1 & HO3-D1
+HO1-D1 & HO2-D1 & HO3-D1
 ```
 
 ----
@@ -134,6 +136,5 @@ D1-->HO1-D1
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzkxNDAyNTcsLTEyMjIxOTY1NzhdfQ
-==
+eyJoaXN0b3J5IjpbMTk1MDUzMzg5OSwtMTIyMjE5NjU3OF19
 -->
