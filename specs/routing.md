@@ -58,7 +58,7 @@ D2E
 - [ ] 「鵺」の使いとしてサイト-8141を訪れる
 - [ ] 四葉薊の姿を目撃する
 
-### BSE: 共通
+### BSE
 - [ ] 施設内で探索者が対面する
 - [ ] 四葉薊が御先稲荷を抱きかかえて施設保安職員から逃走する姿を目撃する
 - [ ] 四葉薊を止めようとした際に暗号を解読するよう耳打ちされる
@@ -153,5 +153,6 @@ D2E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NjQ1Nzc1LC0xMjIyMTk2NTc4XX0=
+eyJoaXN0b3J5IjpbLTEwMDUzODY1MjgsLTEyMjIxOTY1NzhdfQ
+==
 -->
