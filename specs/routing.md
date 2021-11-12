@@ -106,7 +106,12 @@ D4-SF-HO3["SF: HO2"]
 D4-PE-HO3["PE: HO2"]
 D4E([Day4 終了])
 
-
+D4S -->
+D4-SF-HO2 -->
+D4-PE-HO2 -->
+D4-SF-HO3 -->
+D4-PE-HO3 -->
+D4E
 ```
 
 ### HO2
@@ -186,5 +191,5 @@ D4E([Day4 終了])
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzU0Njk1MCwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTEzMDkzMjI1MiwtMTIyMjE5NjU3OF19
 -->
