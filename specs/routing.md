@@ -97,6 +97,15 @@ D3E
 
 ## Day4
 
+```mermaid
+flowchart TD
+D4S([Day2 開始])
+D4-SF-HO3["SF: HO3"]
+D4-PE-HO3["PE: HO3"]
+D4-GE["GE"]
+D4E([Day2 終了])
+```
+
 ### HO2
 - [ ] 虎屋外郎のもとを訪れる
 - [ ] 虎屋外郎に合言葉を伝える
@@ -174,5 +183,5 @@ D3E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTgxMDY0NSwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTYyMjIyNzgyOSwtMTIyMjE5NjU3OF19
 -->
