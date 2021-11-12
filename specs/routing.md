@@ -3,9 +3,10 @@
 ```mermaid
 flowchart TD
 Day1([Day1])
-1.1.1[御先稲荷に対する定期カウンセリングの実施]
-1.1.2[日本支部理事会からの指令を確認する]
-Day1 --> 1.1.1
+-->1.1.1[御先稲荷に対する定期カウンセリングの実施]
+-->1.1.2[日本支部理事会からの指令を確認する]
+Day1
+-->2.1.1[]
 ```
 
 ----
@@ -133,5 +134,5 @@ Day1 --> 1.1.1
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzE5Mzc4NywtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTQ2ODUzNzQzMCwtMTIyMjE5NjU3OF19
 -->
