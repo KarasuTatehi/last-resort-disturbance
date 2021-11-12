@@ -132,7 +132,7 @@ D4E
 
 ## Day5
 
-### 共通
+### GE1
 - [ ] 四葉薊との待ち合わせ場所を訪れる
 - [ ] 四葉薊の使いの者を自称する人物が現れる
 - [ ] 飯縄山山中の洞窟で四葉薊・御先稲荷と再会する
@@ -196,5 +196,5 @@ D4E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTI1NzkyNywtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTkxMDA2NjMzMSwtMTIyMjE5NjU3OF19
 -->
