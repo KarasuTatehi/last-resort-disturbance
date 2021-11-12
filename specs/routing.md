@@ -1,7 +1,7 @@
 # ルーティング
 
 ```mermaid
-graph TB
+sequenceDiagram
 
 ```
 
@@ -130,5 +130,5 @@ graph TB
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTA2MDYxNF19
+eyJoaXN0b3J5IjpbLTg4NTkyNzUyMl19
 -->
