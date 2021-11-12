@@ -32,11 +32,12 @@ HO1-D1 & HO2-D1 & HO3-D1 --> D1E
 ```mermaid
 flowchart TD
 D2S([Day2 開始])
-HO1-D1-BS["BS: HO1"]
-HO2-D1-BS["BS: HO2"]
-HO3-D1-BS["BS: HO3"]
+HO1-D2-BS["BS: HO1"]
+HO2-D2-BS["BS: HO2"]
+HO3-D2-BS["BS: HO3"]
+D2-BSE["BS: HO3"]
 D2E([Day2 終了])
-D2S --> HO1-D1-BS & HO2-D1-BS & HO3-D1-BS
+D2S --> HO1-D2-BS & HO2-D2-BS & HO3-D2-BS
 ```
 
 ### BS: HO1
@@ -51,7 +52,7 @@ D2S --> HO1-D1-BS & HO2-D1-BS & HO3-D1-BS
 - [ ] 「鵺」の使いとしてサイト-8141を訪れる
 - [ ] 四葉薊の姿を目撃する
 
-### 共通
+### BSE: 共通
 - [ ] 施設内で探索者が対面する
 - [ ] 四葉薊が御先稲荷を抱きかかえて施設保安職員から逃走する姿を目撃する
 - [ ] 四葉薊を止めようとした際に暗号を解読するよう耳打ちされる
@@ -146,5 +147,5 @@ D2S --> HO1-D1-BS & HO2-D1-BS & HO3-D1-BS
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMTE5NDgxLC0xMjIyMTk2NTc4XX0=
+eyJoaXN0b3J5IjpbNzgyNTQ4NDk3LC0xMjIyMTk2NTc4XX0=
 -->
