@@ -2,7 +2,8 @@
 
 ```mermaid
 flowchart TD
-([Day1])
+Day1([Day1])
+HO1.1.1[]
 ```
 
 ----
@@ -130,5 +131,5 @@ flowchart TD
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyODA4ODUwLC0xMjIyMTk2NTc4XX0=
+eyJoaXN0b3J5IjpbLTI4NjQwMzQ5MSwtMTIyMjE5NjU3OF19
 -->
