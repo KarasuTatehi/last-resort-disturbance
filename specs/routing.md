@@ -68,17 +68,17 @@ D2E
 
 ```mermaid
 flowchart TD
-D3S([Day3 開始])
+D3-S([Day3 開始])
 D3-SF-HO3["SF: HO3"]
 D3-PE-HO3["PE: HO3"]
 D3-GE["GE"]
-D3E([Day3 終了])
+D3-E([Day3 終了])
 
-D3S -->
+D3-S -->
 D3-SF-HO3 -->
 D3-PE-HO3 -->
 D3-GE -->
-D3E
+D3-E
 ```
 
 ### SF: HO3
@@ -99,19 +99,19 @@ D3E
 
 ```mermaid
 flowchart TD
-D4S([Day4 開始])
+D4-S([Day4 開始])
 D4-SF-HO2["SF: HO2"]
 D4-PE-HO2["PE: HO2"]
 D4-SF-HO3["SF: HO2"]
 D4-PE-HO3["PE: HO2"]
-D4E([Day4 終了])
+D4-E([Day4 終了])
 
-D4S -->
+D4-S -->
 D4-SF-HO2 -->
 D4-PE-HO2 -->
 D4-SF-HO3 -->
 D4-PE-HO3 -->
-D4E
+D4-E
 ```
 
 ### SF: HO2
@@ -134,7 +134,7 @@ D4E
 
 ```mermaid
 flowchart TD
-D5S([Day5 開始])
+D5-S([Day5 開始])
 D5-GE1["GE1"]
 D5-PE-HO1["PE: HO1"]
 D5-PE-HO2["PE: HO2"]
@@ -142,16 +142,16 @@ D5-PE-HO3["PE: HO3"]
 D5-GE2{"GE2"}
 D5-GE2-A["GE2-A"]
 D5-BF["BF: 立飛カラス"]
-D5E([Day5 終了])
+D5-E([Day5 終了])
 
-D5S -->
+D5-S -->
 D5-GE1 -->
 D5-PE-HO1 & D5-PE-HO2 & D5-PE-HO3 -->
 D5-GE2 -->
 D5-GE2-A & D5-BF
 D5-BF -->
 D5-GE2-A & D5-GE2-B -->
-D5E
+D5-E
 ```
 
 ### GE1
@@ -185,6 +185,17 @@ D5E
 - [ ] 撤退する
 
 ## Day6: 最後の手段
+
+```mermaid
+flowchart TD
+D6-S([Day6 開始])
+D6-GE["GE"]
+D6-E([Day6 終了])
+
+D6-S -->
+D6-GE -->
+D6-E
+```
 
 ### GE
 - [ ] 表象領域で訓練を受ける
@@ -228,5 +239,5 @@ D5E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDE2MTQyOCwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbMTM1OTM1MTY4MSwtMTIyMjE5NjU3OF19
 -->
