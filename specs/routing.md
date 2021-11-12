@@ -80,7 +80,9 @@ D3E([Day2 終了])
 - [ ] 両面のシールが黒く塗りつぶされたカセットテープを入手する
 
 ### PE: HO3
-- []
+- [ ] A面に記録された四葉薊からのメッセージを聴く
+- [ ] B面に記録された音声を聴く
+- [ ] B面の音声は
 
 ### 共通
 - [ ] 暗号の内容を知る
@@ -169,5 +171,5 @@ D3E([Day2 終了])
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MDk4NjY5LC0xMjIyMTk2NTc4XX0=
+eyJoaXN0b3J5IjpbLTg0MDg1NDAyNCwtMTIyMjE5NjU3OF19
 -->
