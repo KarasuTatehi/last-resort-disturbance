@@ -174,7 +174,10 @@ D5E-B
 - [ ] 四葉薊に協力しない
 
 ### GE2-A
-- [ ] SRDTIPを埋め込まれる
+- [ ] SRDTIPを埋め込むため、麻酔を投与される
+
+### GE2-B
+- [ ] BF: 立飛カラスを完了する
 
 ## Day6: 最後の手段
 
@@ -221,5 +224,5 @@ D5E-B
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjQ1NjkxNywtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbMTA4NDc1NjI2NSwtMTIyMjE5NjU3OF19
 -->
