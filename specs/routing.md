@@ -81,8 +81,8 @@ D3E([Day2 終了])
 
 ### PE: HO3
 - [ ] A面に記録された四葉薊からのメッセージを聴く
-- [ ] B面に記録された音声を聴く
-- [ ] B面の音声は
+- [ ] B面に記録された暗号化された音声を聴く
+- [ ] B面の暗号化された音声は虎屋外郎が複合鍵を持っていることをしる
 
 ### 共通
 - [ ] 暗号の内容を知る
@@ -171,5 +171,6 @@ D3E([Day2 終了])
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDg1NDAyNCwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTE0NDgwNDE1NTksLTEyMjIxOTY1NzhdfQ
+==
 -->
