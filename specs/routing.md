@@ -141,7 +141,7 @@ D5-PE-HO2["PE: HO2"]
 D5-PE-HO3["PE: HO3"]
 D5-GE2{"GE2"}
 D5E-A([Day5 終了: 最後の手段ルート])
-D5E-B([Day5 終了: 最後の手段ルート])
+D5E-B([Day5 終了: 焚書ルート])
 
 D5S -->
 D5-GE1 -->
@@ -215,5 +215,6 @@ D5E-A & D5E-B
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg2ODIxMiwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTE0NDAwNTE4NjQsLTEyMjIxOTY1NzhdfQ
+==
 -->
