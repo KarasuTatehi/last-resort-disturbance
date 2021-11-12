@@ -1,5 +1,9 @@
 # ルーティング
 
+----
+
+## Day1
+
 ```mermaid
 flowchart TD
 D1S([Day1])
@@ -8,22 +12,18 @@ HO2-D1["導入: HO2"]
 HO3-D1["導入: HO3"]
 D1E([Day1])
 D1S --> HO1-D1 & HO2-D1 & HO3-D1
-HO1-D1 & HO2-D1 & HO3-D1
+HO1-D1 & HO2-D1 & HO3-D1 --> D1E
 ```
 
-----
-
-## Day1
-
-### HO1
+### 導入: HO1
 - [ ] 定期メンタルケアのために御先稲荷のもとへ訪れる
 - [ ] 日本支部理事会からの指令を確認する
 
-### HO2
+### 導入: HO2
 - [ ] 「首輪」の注射器に使用する薬剤を完成させる
 - [ ] 虎屋外郎と共に「首輪」の納品に立ち会う
 
-### HO3
+### 導入: HO3
 - [ ] 「鵺」から渡された暗号を四葉薊に渡す
 - [ ] 四葉薊から内容を見たか確認される
 
@@ -136,5 +136,5 @@ HO1-D1 & HO2-D1 & HO3-D1
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDUzMzg5OSwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbMzk0MDM5MDk2LC0xMjIyMTk2NTc4XX0=
 -->
