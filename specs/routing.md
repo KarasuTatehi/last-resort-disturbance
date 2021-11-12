@@ -3,7 +3,8 @@
 ```mermaid
 flowchart TD
 Day1([Day1])
-HO1.1.1[]
+HO1.1.1[御先稲荷に対する定期カウンセリングの実施]
+HO1.1.2[]
 ```
 
 ----
@@ -131,5 +132,5 @@ HO1.1.1[]
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjQwMzQ5MSwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbNjE2MjA1NTY2LC0xMjIyMTk2NTc4XX0=
 -->
