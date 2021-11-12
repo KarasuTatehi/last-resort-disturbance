@@ -135,16 +135,15 @@ D4E
 ```mermaid
 flowchart TD
 D5S([Day5 開始])
-D5-GE1["GE1"]
-D5-PE1-HO1["GE1: HO1"]
-D5-PE1-HO2["GE1: HO2"]
-D5-PE1-HO3["GE1: HO3"]
-D5-GE2["GE2"]
+D5-GE["GE1"]
+D5-PE-HO1["GE1: HO1"]
+D5-PE-HO2["GE1: HO2"]
+D5-PE-HO3["GE1: HO3"]
 D5E([Day5 終了])
 
 D5S -->
 D5-GE1 -->
-D5-GE1-HO1 & D5-GE1-HO2 & D5-GE1-HO3 -->
+D5-PE-HO1 & D5-PE-HO2 & D5-GE1-HO3 -->
 
 D5E
 ```
@@ -155,16 +154,14 @@ D5E
 
 ### PE1: HO1
 - [ ] なぜ御先稲荷を拉致したのかを聞く
+- [ ] 白狐計画を知る
 
 ### PE1: HO2
 - [ ] なぜ虎屋外郎にラジカセを渡したのかを聞く
+- [ ] 白虎計画を知る
 
 ### PE1: HO3
 - [ ] なぜ探索者たちを選んだのかを聞く
-
-### GE2
-- [ ] 白狐計画を知る
-- [ ] 白虎計画を知る
 - [ ] ラストリゾート作戦を知る
 
 ## Day6
@@ -212,6 +209,5 @@ D5E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTkxODk4MTMsLTEyMjIxOTY1NzhdfQ
-==
+eyJoaXN0b3J5IjpbOTc3OTgwMTcwLC0xMjIyMTk2NTc4XX0=
 -->
