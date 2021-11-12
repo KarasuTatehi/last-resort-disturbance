@@ -11,8 +11,10 @@ HO1-D1["導入: HO1"]
 HO2-D1["導入: HO2"]
 HO3-D1["導入: HO3"]
 D1E([Day1 終了])
-D1S --> HO1-D1 & HO2-D1 & HO3-D1
-HO1-D1 & HO2-D1 & HO3-D1 --> D1E
+
+D1S -->
+HO1-D1 & HO2-D1 & HO3-D1 -->
+D1E
 ```
 
 ### 導入: HO1
@@ -35,9 +37,13 @@ D2S([Day2 開始])
 HO1-D2-BS["BS: HO1"]
 HO2-D2-BS["BS: HO2"]
 HO3-D2-BS["BS: HO3"]
-D2-BSE["BS: HO3"]
+D2-BSE["BSE"]
 D2E([Day2 終了])
-D2S --> HO1-D2-BS & HO2-D2-BS & HO3-D2-BS
+
+D2S -->
+HO1-D2-BS & HO2-D2-BS & HO3-D2-BS -->
+D2-BSE -->
+D2E
 ```
 
 ### BS: HO1
@@ -147,5 +153,5 @@ D2S --> HO1-D2-BS & HO2-D2-BS & HO3-D2-BS
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNTQ4NDk3LC0xMjIyMTk2NTc4XX0=
+eyJoaXN0b3J5IjpbNzg3NjQ1Nzc1LC0xMjIyMTk2NTc4XX0=
 -->
