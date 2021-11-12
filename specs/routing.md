@@ -135,7 +135,7 @@ D4E
 ```mermaid
 flowchart TD
 D5S([Day5 開始])
-D5-GE["GE"]
+D5-GE1["GE"]
 D5-PE-HO1["PE: HO1"]
 D5-PE-HO2["PE: HO2"]
 D5-PE-HO3["PE: HO3"]
@@ -162,6 +162,10 @@ D5E
 ### PE: HO3
 - [ ] なぜ探索者たちを選んだのかを聞く
 - [ ] ラストリゾート作戦を知る
+
+### GE2
+- [ ] 四葉薊に協力する
+- [ ] 四葉薊に協力しない
 
 ## Day6
 
@@ -208,5 +212,5 @@ D5E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NDM4MjY3LC0xMjIyMTk2NTc4XX0=
+eyJoaXN0b3J5IjpbMTcwMjQ4MTUzMCwtMTIyMjE5NjU3OF19
 -->
