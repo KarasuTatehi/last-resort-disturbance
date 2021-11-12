@@ -136,6 +136,9 @@ D4E
 flowchart TD
 D5S([Day5 開始])
 D5-GE1["GE1"]
+D5-GE1-HO1["GE1: HO1"]
+D5-GE1-HO2["GE1: HO2"]
+D5-GE1-HO2["GE1: HO2"]
 D5E([Day5 終了])
 
 D5S -->
@@ -150,10 +153,10 @@ D5E
 ### GE1: HO1
 - [ ] なぜ御先稲荷を拉致したのかを聞く
 
-### HO2
+### GE1: HO2
 - [ ] なぜ虎屋外郎にラジカセを渡したのかを聞く
 
-### HO3
+### GE1: HO3
 - [ ] なぜ探索者たちを選んだのかを聞く
 
 ### 共通
@@ -206,5 +209,5 @@ D5E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTYzMjMwNCwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbLTUwNDA3MTI0MSwtMTIyMjE5NjU3OF19
 -->
