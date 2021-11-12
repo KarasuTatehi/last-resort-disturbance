@@ -125,6 +125,8 @@ D4E
 
 ### SF: HO3
 - [ ] 「鵺」に連絡して通信監視システム外の専用回線の使用申請を出す
+
+### PE: HO3
 - [ ] 電話に出たのは四葉薊だった
 - [ ] 四葉薊が明日探索者たちに長野県飯縄山の一の鳥居に来るよう指示される
 
@@ -194,6 +196,5 @@ D4E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU4MTM4MzUsLTEyMjIxOTY1NzhdfQ
-==
+eyJoaXN0b3J5IjpbMTcxNTI1NzkyNywtMTIyMjE5NjU3OF19
 -->
