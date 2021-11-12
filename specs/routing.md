@@ -1,10 +1,8 @@
 # ルーティング
 
 ```mermaid
-sequenceDiagram
-participant HO1
-participant HO2
-participant HO3
+flowchart TD
+([Day1])
 ```
 
 ----
@@ -132,5 +130,5 @@ participant HO3
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIxOTY1NzhdfQ==
+eyJoaXN0b3J5IjpbNjQyODA4ODUwLC0xMjIyMTk2NTc4XX0=
 -->
