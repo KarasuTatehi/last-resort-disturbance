@@ -150,7 +150,7 @@ D5-PE-HO1 & D5-PE-HO2 & D5-PE-HO3 -->
 D5-GE2 -->
 D5-GE2-A & D5-BF
 D5-BF -->
-D5-GE2-A & D5-GE2-B
+D5-GE2-A & D5-GE2-B -->
 D5E
 ```
 
@@ -186,8 +186,7 @@ D5E
 
 ## Day6: 最後の手段
 
-### 共通
-- [ ] SRDTIPを埋め込まれる
+### GE
 - [ ] 表象領域で訓練を受ける
 
 ## Day7
@@ -229,5 +228,5 @@ D5E
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTYwNjE1OSwtMTIyMjE5NjU3OF19
+eyJoaXN0b3J5IjpbMTAwMDE2MTQyOCwtMTIyMjE5NjU3OF19
 -->
