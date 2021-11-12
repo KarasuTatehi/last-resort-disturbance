@@ -71,7 +71,14 @@ flowchart TD
 D3S([Day2 開始])
 D3-SF-HO3["SF: HO3"]
 D3-PE-HO3["PE: HO3"]
+D3-GE["GE"]
 D3E([Day2 終了])
+
+D3S -->
+D3-SF-HO3 -->
+D3-PE-HO3 -->
+D3-GE -->
+D3E
 ```
 
 ### SF: HO3
@@ -85,7 +92,7 @@ D3E([Day2 終了])
 - [ ] B面の暗号化された音声は虎屋外郎が複合鍵を持っていることを知る
 - [ ] HO2にB面を解読させれば良いとわかる
 
-### 
+### GE
 - [ ] 移動禁止令が解除され、サイト-8141を立ち去る
 
 ## Day4
@@ -167,5 +174,5 @@ D3E([Day2 終了])
 - [ ] 御先稲荷は本能的にそれが事実であると感じ詳しく話すよう求める
 - [ ] 四葉薊は「長くなるぞ」と言う
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5Nzc1OTc5LC0xMjIyMTk2NTc4XX0=
+eyJoaXN0b3J5IjpbMTI3MTgxMDY0NSwtMTIyMjE5NjU3OF19
 -->
