@@ -56,6 +56,7 @@
 | 重機械操作 | 00 |
 | 電気修理   | 00 |
 | 図書館     | 00 |
+| 言語(英語) | 00 |
 | 料理       | 00 |
 | 信用       | 60 |
 
@@ -108,5 +109,5 @@
 ### バックストーリー
 バックストーリーを定義。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODQwNjAzMF19
+eyJoaXN0b3J5IjpbLTE3MzYxODY3NjhdfQ==
 -->
