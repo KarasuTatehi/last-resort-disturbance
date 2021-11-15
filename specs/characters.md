@@ -89,16 +89,16 @@
 > フレーバーテキストを定義。
 
 ### 能力値
-| 能力 | 値    |
-|------|------|
-| STR  | 400  |
-| CON  | 600  |
-| POW  | 210  |
-| DEX  | 105  |
-| APP  | null |
-| SIZ  | 65   |
-| INT  | 105  |
-| EDU  | null |
+| 能力 | 値   |
+|------|-----|
+| STR  | 400 |
+| CON  | 600 |
+| POW  | 210 |
+| DEX  | 105 |
+| APP  | -   |
+| SIZ  | 65  |
+| INT  | 105 |
+| EDU  | -   |
 
 ### 技能値
 | 技能 | 値 |
@@ -108,5 +108,5 @@
 ### バックストーリー
 バックストーリーを定義。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MzcyNTEzXX0=
+eyJoaXN0b3J5IjpbMTYxODQwNjAzMF19
 -->
